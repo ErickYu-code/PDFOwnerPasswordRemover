@@ -1,5 +1,5 @@
 # PDFOwnerPasswordRemover
-https://github.com/chenluda/pdf-password
+https://github.com/chenluda/pdf-password  
 本程序是在此仓库的基础上进一步开发得到的，感谢原作者。
 PDF 文件的加密与去密
 在 PDF 文件的安全设置中，有两种类型的密码：用户密码（user password）和所有者密码（owner password）。
